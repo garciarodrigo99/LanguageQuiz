@@ -1,8 +1,3 @@
-isVisible,enWord,esWord,timesAsked,timesCorrect,consecTimesCorrect,lastSessionAsked,isAskedLastSession,isCorrectLastSession
-1,a,un,0,0,0,0,0,0
-1,abandon,abandonar,0,0,0,0,0,0
-1,ability,habilidad,0,0,0,0,0,0
-1,able,capaz,0,0,0,0,0,0
 1,abortion,aborto,0,0,0,0,0,0
 1,about,acerca de,0,0,0,0,0,0
 1,above,encima de,0,0,0,0,0,0
@@ -2683,7 +2678,7 @@ isVisible,enWord,esWord,timesAsked,timesCorrect,consecTimesCorrect,lastSessionAs
 1,than,que,0,0,0,0,0,0
 1,thank,agradecer,0,0,0,0,0,0
 1,thanks,gracias,0,0,0,0,0,0
-1,that,"ese/esa/aquel/aquella",0,0,0,0,0,0
+1,that,ese/esa/aquel/aquella,0,0,0,0,0,0
 1,the,el/la,0,0,0,0,0,0
 1,theater,teatro,0,0,0,0,0,0
 1,their,su (de ellos/ellas),0,0,0,0,0,0
