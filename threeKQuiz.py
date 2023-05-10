@@ -69,8 +69,8 @@ def resetInformation(lista: list[list[str]]) -> None:
 
 # Save in a dict the words that are going to be asked
 def setSelection(dataBase: list[list[str]], filter: dict) -> dict:
+  selection = {}
   for clave, valor in filter.copy().items():
-    selection = {}
     # Add recent failures
     if (int(dataBase[valor][7]) == True) and (int(dataBase[valor][8]) == False):
       selection[clave] = valor
@@ -92,11 +92,11 @@ logging.basicConfig(filename=LOG_FILE_NAME,level=logging.INFO)
 logging.info(f'{datetime.datetime.now()} {ID_SESSION}')
 
 dataBase = readAndCopy()
-resetInformation(dataBase)
-exit()
+# resetInformation(dataBase)
+# exit()
 
 # numberofWords = int(input("Número de palabra que desea trabajar: "))
-numberofWords = 10
+numberofWords = 5
 
 filter = filterByVisibility(dataBase)
 

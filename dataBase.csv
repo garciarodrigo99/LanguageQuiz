@@ -1,3 +1,12 @@
+1,abandon,abandonar,0,0,0,0,0,0
+1,ability,habilidad,0,0,0,0,0,0
+1,able,capaz,0,0,0,0,0,0
+1,abortion,aborto,0,0,0,0,0,0
+1,about,acerca de,0,0,0,0,0,0
+1,above,encima de,0,0,0,0,0,0
+1,abroad,en el extranjero,0,0,0,0,0,0
+1,absence,ausencia,0,0,0,0,0,0
+1,absolute,absoluto,0,0,0,0,0,0
 1,absolutely,absolutamente,0,0,0,0,0,0
 1,absorb,absorber,0,0,0,0,0,0
 1,abuse,abuso,0,0,0,0,0,0
@@ -101,13 +110,13 @@
 1,amazing,increíble,0,0,0,0,0,0
 1,American,estadounidense,0,0,0,0,0,0
 1,among,entre,0,0,0,0,0,0
-1,amount,cantidad,0,0,0,0,0,0
+1,amount,cantidad,1,1,1,1683725383,1,1
 1,analysis,análisis,0,0,0,0,0,0
 1,analyst,analista,0,0,0,0,0,0
 1,analyze,analizar,0,0,0,0,0,0
 1,ancient,antiguo,0,0,0,0,0,0
 1,and,y,0,0,0,0,0,0
-1,anger,ira,0,0,0,0,0,0
+1,anger,ira,2,0,0,1683725383,1,0
 1,angle,ángulo,0,0,0,0,0,0
 1,angry,enojado,0,0,0,0,0,0
 1,animal,animal,0,0,0,0,0,0
@@ -353,7 +362,7 @@
 1,button,botón,0,0,0,0,0,0
 1,buy,comprar,0,0,0,0,0,0
 1,buyer,comprador,0,0,0,0,0,0
-1,by,por,0,0,0,0,0,0
+1,by,por,1,1,1,1683725362,0,0
 1,cabin,cabaña,0,0,0,0,0,0
 1,cabinet,gabinete,0,0,0,0,0,0
 1,cable,cable,0,0,0,0,0,0
@@ -397,7 +406,7 @@
 1,celebration,celebración,0,0,0,0,0,0
 1,celebrity,celebridad,0,0,0,0,0,0
 1,cell,célula,0,0,0,0,0,0
-1,center,centro,0,0,0,0,0,0
+1,center,centro,1,1,1,1683725362,0,0
 1,central,central,0,0,0,0,0,0
 1,century,siglo,0,0,0,0,0,0
 1,CEO,CEO (Director Ejecutivo),0,0,0,0,0,0
@@ -662,7 +671,7 @@
 1,daily,diario/a,0,0,0,0,0,0
 1,damage,daño,0,0,0,0,0,0
 1,dance,bailar,0,0,0,0,0,0
-1,danger,peligro,0,0,0,0,0,0
+1,danger,peligro,1,1,1,1683725362,0,0
 1,dangerous,peligroso,0,0,0,0,0,0
 1,dare,desafiar,0,0,0,0,0,0
 1,dark,oscuro,0,0,0,0,0,0
@@ -670,7 +679,7 @@
 1,data,datos,0,0,0,0,0,0
 1,date,fecha,0,0,0,0,0,0
 1,daughter,hija,0,0,0,0,0,0
-1,day,día,0,0,0,0,0,0
+1,day,día,1,1,1,1683725362,0,0
 1,dead,muerto,0,0,0,0,0,0
 1,deal,trato,0,0,0,0,0,0
 1,dealer,distribuidor,0,0,0,0,0,0
@@ -1150,7 +1159,7 @@
 1,generally,generalmente,0,0,0,0,0,0
 1,generate,generar,0,0,0,0,0,0
 1,generation,generación,0,0,0,0,0,0
-1,genetic,genético,0,0,0,0,0,0
+1,genetic,genético,1,0,0,1683725383,1,0
 1,gentleman,caballero,0,0,0,0,0,0
 1,gently,suavemente,0,0,0,0,0,0
 1,German,alemán,0,0,0,0,0,0
@@ -2531,7 +2540,7 @@
 1,stir,revolver,0,0,0,0,0,0
 1,stock,stock/inventario,0,0,0,0,0,0
 1,stomach,estómago,0,0,0,0,0,0
-1,stone,piedra,0,0,0,0,0,0
+1,stone,piedra,1,1,1,1683725383,1,1
 1,stop,detener,0,0,0,0,0,0
 1,storage,almacenamiento,0,0,0,0,0,0
 1,store,tienda,0,0,0,0,0,0
@@ -2818,7 +2827,7 @@
 1,up,arriba,0,0,0,0,0,0
 1,upon,sobre,0,0,0,0,0,0
 1,upper,superior,0,0,0,0,0,0
-1,urban,urbano,0,0,0,0,0,0
+1,urban,urbano,1,1,1,1683725383,1,1
 1,urge,urgir,0,0,0,0,0,0
 1,us,nosotros,0,0,0,0,0,0
 1,use,usar,0,0,0,0,0,0
